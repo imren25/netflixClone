@@ -3,4 +3,4 @@
 <p>HTML,CSS</p><br>
 <p>basit bir netflix clone projesidir,yapının responsive olması sağlanmıştır</p><br>
 
-![]{netflixClone.gif}
+![](netflixClone.gif)
